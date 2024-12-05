@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_settings">Settings</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_description">Event Description</string>
+    <string name="view_details">View Details</string>
+    <string name="register">Register</string>
+    <string name="organizer">Organizer</string>
+    <string name="todo">TODO</string>
+    <string name="quota_remaining">Sisa kuota: %d</string>
+    <string name="switch_dark_mode">Mode Gelap</string>
+    <string name="full_description" />
+</resources>

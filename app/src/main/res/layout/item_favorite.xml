@@ -1,0 +1,28 @@
+<!-- res/layout/item_favorite.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/ivFavoriteImage"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="16dp"
+        android:src="@drawable/ic_launcher_foreground" />
+
+    <TextView
+        android:id="@+id/tvFavoriteName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Favorite Event"
+        android:textSize="16sp"
+        android:layout_gravity="center_vertical" />
+
+    <ImageView
+        android:id="@+id/ivFavoriteIcon"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:src="@drawable/ic_favorite" />
+</LinearLayout>
